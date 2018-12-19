@@ -17,3 +17,9 @@
 회원가입은 이름, 아이디, 비밀번호, 생년월일, 주소, 전화번호 등의 정보를 입력을 받아 데이터베이스를 이용하여 정보를 저장하고 회원관리를 합니다. 
 주된 기능으로 영화예매와 Mysql 프로그램을 사용하여 데이터베이스에 저장된 정보를 홈페이지에 출력하여 이용자들에게 편리하고 필요한 정보들을 제공하는 것입니다. 
 그리고 영화에 관심이 있는 사람들이 서로 많은 이야기를 할 수 있고 평소 영화를 많이 접하지 못한 사람들에게는 영화에 대한 정보와 몰랐던 내용들을 통해 영화에 더 관심을 가질 수 있는 기대가 있습니다.
+
+![mock-ups1](https://user-images.githubusercontent.com/45996110/50227806-ef62be80-03e9-11e9-9b33-380efb448af2.jpg)
+![mock-ups6](https://user-images.githubusercontent.com/45996110/50227813-f5589f80-03e9-11e9-997e-0f631203cb94.jpg)
+![mock-ups7](https://user-images.githubusercontent.com/45996110/50227816-f7226300-03e9-11e9-86c4-6ba60021928a.jpg)
+![mock-ups8](https://user-images.githubusercontent.com/45996110/50227818-f8ec2680-03e9-11e9-8f69-f1e720f8fe35.jpg)
+![mock-ups9](https://user-images.githubusercontent.com/45996110/50227821-f984bd00-03e9-11e9-8fd7-31c1840b9cf5.jpg)
